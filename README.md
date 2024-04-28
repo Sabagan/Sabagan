@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabagan Chandrakanthan
 - 👀 I’m interested in areas of software development and cybersecurity
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaFx (transition from JavaSwing)
 - 📫 You can reach me at sabagan22@icloud.com
 - 😄 Pronouns: He/Him

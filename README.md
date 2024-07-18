@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabagan Chandrakanthan
-- 👀 I’m interested in areas of software development, cybersecurity and AI/ML.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in areas of software development, augmented reality and AI/ML.
+- 🌱 I’m currently learning SpringBoot
 - 📫 You can reach me at sabagan22@icloud.com
 - 😄 Pronouns: He/Him
